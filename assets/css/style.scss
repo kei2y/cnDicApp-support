@@ -1,7 +1,5 @@
----
----
-@import "{{ site.theme }}"; // 元のテーマを読み込む
+--- --- @import "{{ site.theme }}"; // 元のテーマを読み込む
 
 body {
-  background-color: #d3f88f;
+  background-color: #f3fddf;
 }
