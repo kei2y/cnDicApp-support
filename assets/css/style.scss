@@ -1,6 +1,5 @@
 ---
 ---
-@import "{{ site.theme }}";
 
 body {
   background-color: #f0fbdd;
@@ -16,8 +15,9 @@ hr {
 }
 
 /* 2. 見出し（項目ごと）の下線を黒くする */
-/* これを追加しない限り、項目ごとの線は変わりませんでした */
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   border-bottom: 1px solid #000000;
   padding-bottom: 0.3em;
 }
