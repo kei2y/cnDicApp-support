@@ -1,4 +1,7 @@
 {
-    "editor.formatOnSave": true,
-    "files.autoSave": "onFocusChange"
+    "editor.formatOnSave": false,
+    "files.autoSave": "onFocusChange",
+    "markdown.styles": [
+        "./.vscode/preview.css"
+    ]
 }

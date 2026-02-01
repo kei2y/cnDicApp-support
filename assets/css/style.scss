@@ -1,7 +1,23 @@
 ---
 ---
-@import "{{ site.theme }}"; // 元のテーマを読み込む
+@import "{{ site.theme }}";
 
 body {
-  background-color: #f3fddf;
+  background-color: #f0fbdd;
+  color: #24292e;
+}
+
+/* 1. 水平線（---）を黒くする */
+hr {
+  height: 0.25em;
+  background-color: #000000;
+  border: 0;
+  margin: 24px 0;
+}
+
+/* 2. 見出し（項目ごと）の下線を黒くする */
+/* これを追加しない限り、項目ごとの線は変わりませんでした */
+h1, h2, h3 {
+  border-bottom: 1px solid #000000;
+  padding-bottom: 0.3em;
 }
