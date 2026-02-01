@@ -22,8 +22,9 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* 3. GitHub Pages のタイトル（リンク）から下線を消す */
-a.site-title {
-  text-decoration: none !important;
+/* 3. ページタイトル（site-title）の下線を完全に消す */
+h1.site-title {
   border-bottom: none !important;
+  background-image: none !important;
+  text-decoration: none !important;
 }
