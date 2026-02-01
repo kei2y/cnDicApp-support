@@ -1,4 +1,6 @@
---- --- @import "{{ site.theme }}"; // 元のテーマを読み込む
+---
+---
+@import "{{ site.theme }}"; // 元のテーマを読み込む
 
 body {
   background-color: #f3fddf;
