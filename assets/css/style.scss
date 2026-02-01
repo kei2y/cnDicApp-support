@@ -6,6 +6,11 @@ body {
   color: #24292e;
 }
 
+a {
+  text-decoration: none !important;
+}
+
+
 /* 1. 水平線（---）を黒くする */
 hr {
   height: 0.25em;
@@ -22,8 +27,3 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* 3. タイトル文字列（リンク）の下線を完全に消す */
-.page-header a {
-  text-decoration: none !important;
-  border-bottom: none !important;
-}
