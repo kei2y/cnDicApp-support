@@ -14,10 +14,18 @@ hr {
   margin: 24px 0;
 }
 
-/* 2. 見出し（項目ごと）の下線を黒くする */
-h1,
-h2,
-h3 {
+/* 2. 本文の見出し（項目ごと）の下線を黒くする */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
   border-bottom: 1px solid #000000;
   padding-bottom: 0.3em;
+}
+
+/* 3. GitHub Pages が自動生成するページタイトルの下線を消す */
+.site-title,
+.project-name {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  text-decoration: none !important;
 }
