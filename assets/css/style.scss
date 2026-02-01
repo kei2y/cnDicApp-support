@@ -22,9 +22,8 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* 3. ページタイトル（site-title）の下線を完全に消す */
-h1.site-title {
-  border-bottom: none !important;
-  background-image: none !important;
+/* 3. タイトル文字列（リンク）の下線を完全に消す */
+.page-header a {
   text-decoration: none !important;
+  border-bottom: none !important;
 }
