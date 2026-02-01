@@ -22,10 +22,8 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* 3. GitHub Pages が自動生成するページタイトルの下線を消す */
-.site-title,
-.project-name {
-  border-bottom: none !important;
-  padding-bottom: 0 !important;
+/* 3. GitHub Pages のタイトル（リンク）から下線を消す */
+a.site-title {
   text-decoration: none !important;
+  border-bottom: none !important;
 }
