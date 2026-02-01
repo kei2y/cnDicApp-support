@@ -1,4 +1,7 @@
---- --- body {
-    /* 背景色を白以外の目に優しい色（例：アイボリー）に変更 */
-    background-color: #fdf5e6;
+---
+---
+@import "{{ site.theme }}"; // 元のテーマを読み込む
+
+body {
+  background-color: #d3f88f;
 }
