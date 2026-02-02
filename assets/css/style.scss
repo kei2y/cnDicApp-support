@@ -27,7 +27,7 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* body直下にある h1 のみを指定 */
-body > h1 {
+/* タイトルサイズ h1 */
+h1 {
   font-size: 12px; /* ここに希望のサイズを指定してください */
 }
