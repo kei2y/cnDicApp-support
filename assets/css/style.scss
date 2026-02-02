@@ -27,7 +27,7 @@ hr {
   padding-bottom: 0.3em;
 }
 
-/* コンテンツ本体（markdown-body）の外にある h1 のみを指定 */
-h1:not(.markdown-body h1) {
+/* body直下にある h1 のみを指定 */
+body > h1 {
   font-size: 12px; /* ここに希望のサイズを指定してください */
 }
