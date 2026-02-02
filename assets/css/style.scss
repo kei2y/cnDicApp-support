@@ -28,6 +28,12 @@ hr {
 }
 
 /* タイトルサイズ h1 */
-h1 {
-  font-size: 12px; /* ここに希望のサイズを指定してください */
+body > h1:first-of-type,
+body > h1:first-of-type a {
+  font-size: 20px;
+}
+
+/* 本文の h1 は別に大きめに保つ */
+.markdown-body h1 {
+  font-size: 2em;
 }
