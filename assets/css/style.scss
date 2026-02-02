@@ -30,4 +30,7 @@ hr {
 /* タイトルサイズ h1 */
 h1 {
   font-size: 12px;
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
 }
