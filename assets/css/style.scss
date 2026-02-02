@@ -28,11 +28,10 @@ hr {
 }
 
 /* タイトルサイズ h1 */
-h1 {
-  font-size: 20px;
+:not(.markdown-body) h1 {
+  font-size: 12px;
 }
-
-/* 本文の h1 は別に大きめに保つ */
+/* 本文の h1 は大きいまま */
 .markdown-body h1 {
-  font-size: 2em !important;
+  font-size: 2em;
 }
