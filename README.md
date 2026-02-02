@@ -38,6 +38,7 @@
 - 中検・HSK対策にも対応
 
 ## サポート情報
+- [利用規約](docs/terms.md)
 - [プライバシーポリシー](docs/privacy.md)
 - [お問い合わせ](https://forms.gle/ZELM35RPyfaAzeqk6)
 
