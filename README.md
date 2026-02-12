@@ -14,14 +14,26 @@
  <img src="images/単語画面抽出.png" width="230" style="max-width: 100%;">
 
 - 単語をタップすると、詳細画面で意味と例文を表示します  
- <img src="images/単語画面詳細.png" width="300" style="max-width: 100%;">
+ <img src="images/単語画面詳細.png" width="300" style="max-width: 100%;">  
+ (単語の詳細画面はスワイプ可能です)  
+ <img src="images/単語詳細スワイプ.jpg" width="300" style="max-width: 100%;">  
 
+- 各単語のレベルやピンインの表示/非表示の選択も可能です  
+<img src="images/単語画面.png" width="300" style="max-width: 100%;">
 
 ## 漢字画面
-- レベルやピンインで抽出可能です
-- 漢字をタップすると漢字を含む単語一覧を表示します  
- <img src="images/漢字画面詳細.png" width="300" style="max-width: 100%;">
+- 単語を分解した漢字が一覧表示されます
+- 単語画面と同様に、レベルやピンインで抽出可能です
+- ピンインの見出しをタップすると、そのピンインの漢字の一覧が大きく表示されます。  
+<img src="images/漢字画面見だし.png" width="230" style="max-width: 100%;">  
+ (タップしたピンインの漢字一覧)  
+<img src="images/漢字画面集中.png" width="300" style="max-width: 100%;">  
 
+- 漢字をタップすると漢字を含む単語一覧を表示します  
+ <img src="images/漢字画面詳細.png" width="300" style="max-width: 100%;">  
+
+- 学習画面での学習進捗状況を表示することが可能です
+ <img src="images/漢字画面進捗.png" width="300" style="max-width: 100%;">
 
 ## 学習画面
 - 本アプリの特長である、ピンイン(拼音)または声調のテスト機能です  
