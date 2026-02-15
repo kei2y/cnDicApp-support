@@ -1,8 +1,3 @@
----
-layout: default
----
-<link rel="icon" href="/cnDicApp-support/favicon.ico">
-
 ## アプリの概要
 - アプリ『拼読(ピンドク)』は中国語の単語・ピンイン・声調を学習するための学習アプリです
 - ４つの画面で構成されます  
