@@ -23,7 +23,7 @@
 
 - 詳細画面内の単語を「長押し」すると、漢字の詳細画面へのジャンプが可能です  
  <img src="images/単語詳細長押し.png" width="300" style="max-width: 100%;">  
- (長押し後に漢字毎に分解)
+ (長押し後に漢字毎に分解)  
 <img src="images/単語詳細長押し選択.png" width="300" style="max-width: 100%;">  
 
 ## 漢字画面
