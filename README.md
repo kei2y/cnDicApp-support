@@ -13,13 +13,18 @@
 (※ L1:易しい 〜 L5:難しい)  
  <img src="images/単語画面抽出.png" width="230" style="max-width: 100%;">
 
+- 各単語のレベルやピンインの表示/非表示の選択が可能です  
+<img src="images/単語画面.png" width="300" style="max-width: 100%;">
+
 - 単語をタップすると、詳細画面で意味と例文を表示します  
  <img src="images/単語画面詳細.png" width="300" style="max-width: 100%;">  
  (単語の詳細画面はスワイプ可能です)  
  <img src="images/単語詳細スワイプ.jpg" width="300" style="max-width: 100%;">  
 
-- 各単語のレベルやピンインの表示/非表示の選択も可能です  
-<img src="images/単語画面.png" width="300" style="max-width: 100%;">
+- 詳細画面内の単語を「長押し」すると、漢字の詳細画面へのジャンプが可能です  
+ <img src="images/単語詳細長押し.png" width="300" style="max-width: 100%;">  
+ (長押し後に漢字毎に分解)
+<img src="images/単語詳細長押し選択.png" width="300" style="max-width: 100%;">  
 
 ## 漢字画面
 - 単語を分解した漢字が一覧表示されます
