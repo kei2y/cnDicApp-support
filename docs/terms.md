@@ -19,9 +19,12 @@
 ### 5. 規約の変更
 開発者は、必要と判断した場合には、ユーザーに通知することなくいつでも本規約を変更できるものとします。
 
-iOS/iPadOS版をご利用の方へ
-本アプリの利用には、Apple Inc.が定める「標準エンドユーザ使用許諾契約（EULA）」が適用されます。万が一、本規約の条項とAppleの標準EULAの内容が矛盾または抵触する場合には、本規約の定めが優先して適用されるものとします。 ただし、Appleが定める最低条件を上書きすることはできません。
-[Apple標準使用許諾契約 (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+<hr style="height:1px; border:none; border-top:1px solid #ccc;">
+
+
+#### ※ iOS/iPadOS版をご利用の方へ
+本アプリの利用には、[Apple Inc.が定める標準エンドユーザ使用許諾契約（EULA）](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)が適用されます。万が一、本規約の条項とAppleの標準EULAの内容が矛盾または抵触する場合には、本規約の定めが優先して適用されるものとします。 ただし、Appleが定める最低条件を上書きすることはできません。
 
 ---
 制定日：2026年2月25日
